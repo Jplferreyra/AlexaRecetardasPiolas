@@ -1,0 +1,7 @@
+[mongodb]
+uri = <connection_string>
+database = <db_name>
+collection = <collection_name>
+
+[source]
+file_path = <file_to_upload>

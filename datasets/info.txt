@@ -1,0 +1,8 @@
+## Para dividir un csv en lineas
+split -l <n> <file> <name_>
+# Esto divide file en n lineas, y a cada archivo le pone name_aa, name_ab, etc.
+# Conserva el archivo original
+
+## Para convertir de csv a json
+https://csvjson.com/csv2json
+# Dividir en pocas lineas (7k si es de pocas columnas alcanza) sino se peta
